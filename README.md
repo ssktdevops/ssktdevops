@@ -1,19 +1,17 @@
-<a href="https://github.com/ssktdevops">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sampath%20Kumar%20Tadinada&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Platform%20Operations%20%7C%20Infrastructure%20Automation&descAlignY=62&descSize=16" />
+<a href="https://github.com/sampath998">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sampath%20Kumar%20Tadinada&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=45" />
 </a>
 
 <div align="center">
-  <a href="https://github.com/ssktdevops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer+%F0%9F%9A%80;AWS+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;Platform+Operations+%26+Infrastructure+Automation;Mentor+%7C+Builder+%7C+Open+to+Collaborate" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer+%F0%9F%9A%80;AWS+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;Platform+Ops+%26+Infrastructure+Automation;Mentor+%7C+Builder+%7C+Open+to+Collaborate" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ssktdevops&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sampath998&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
-  <a href="mailto:ssktdevops@gmail.com"><img src="https://img.shields.io/badge/Email-ssktdevops%40gmail.com-70A5FD?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ssktdevops@gmail."><img src="https://img.shields.io/badge/Email-ssktdevops%40gmail.com-70A5FD?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sampathkumartadinada"><img src="https://img.shields.io/badge/LinkedIn-Sampath%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
@@ -24,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```python
 class SampathKumar:
@@ -44,7 +42,7 @@ class SampathKumar:
             "CKA — Certified Kubernetes Administrator",
             "AZ-104 — Microsoft Azure Administrator"
         ]
-        self.fun_fact     = "I designed a 92-day DevOps curriculum from scratch 🎓"
+        self.fun_fact = "I designed a 92-day DevOps curriculum from scratch!"
 
     def motto(self):
         return "Automate everything. Document ruthlessly. Ship with confidence."
@@ -63,9 +61,9 @@ print(me.motto())
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=powershell&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **Cloud & DevOps**
@@ -92,16 +90,16 @@ print(me.motto())
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Grafana%20Loki-F5A623?style=flat-square&logo=grafana&logoColor=white)
 
 **Identity & Security**
 
 ![SAML](https://img.shields.io/badge/SAML%202.0-0052CC?style=flat-square&logo=auth0&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![OIDC](https://img.shields.io/badge/OIDC%20Federation-EB5424?style=flat-square&logo=openid&logoColor=white)
+![OIDC](https://img.shields.io/badge/OIDC%20Federation-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Databases & OS**
@@ -120,12 +118,9 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ssktdevops">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssktdevops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/ssktdevops">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssktdevops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sampath998&theme=tokyonight" width="32%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sampath998&theme=tokyonight" width="32%" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sampath998&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time"/>
 </div>
 
 ---
@@ -133,7 +128,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ssktdevops&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sampath998&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -141,7 +136,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ssktdevops&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sampath998&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -149,7 +144,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ssktdevops&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sampath998&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="100%" alt="Trophies"/>
 </div>
 
 ---
@@ -233,9 +228,9 @@ print(me.motto())
 
 <div align="center">
 
-| Degree | Institution | Year | Notes |
-|:-------|:------------|:----:|:------|
-| B.Sc. Electronics & Computer Science | Sri Venkateshwara Degree College, Andhra Pradesh | 2020 | — |
+| Degree | Institution | Year |
+|:-------|:------------|:----:|
+| B.Sc. Electronics & Computer Science | Sri Venkateshwara Degree College, Andhra Pradesh | 2020 |
 
 </div>
 
